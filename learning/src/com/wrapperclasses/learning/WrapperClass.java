@@ -11,7 +11,7 @@ public class WrapperClass {
 	}
 	public static void main(String[] args) {
 		WrapperClass obj= new WrapperClass();
-		System.out.println("THis is testing for git push");
+		System.out.println("THis is testing for git push ");
 		for(;;){
 			obj.callMe();
 		}
